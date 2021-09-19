@@ -1,14 +1,7 @@
 #ifndef PROCESSMANAGER_H
 #define PROCESSMANAGER_H
 
-#include <bits/stdint-intn.h>
-#include <cstdio>
-#include <ios>
-#include <string>
 #include <fstream>
-#include <iostream>
-#include <optional>
-#include <string.h>
 
 struct Device
 {
